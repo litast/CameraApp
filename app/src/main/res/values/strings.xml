@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string-array name="country_names">
+        <item>Azerbaijan</item>
+        <item>Canada</item>
+        <item>Croatia</item>
+        <item>Iceland</item>
+        <item>Latvia</item>
+    </string-array>
+</resources>
